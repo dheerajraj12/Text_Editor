@@ -1,1 +1,1 @@
-Built a Text Editor using Java that can perform basic operations such as Cut, Copy, Paste, Change Font Type, Size, Case, Find, Replace, Count and Print total number of words and characters similar to those in MS Word.
+Built a Text Editor using [Java](https://www.java.com/en/) that can perform basic operations such as Cut, Copy, Paste, Change Font Type, Size, Case, Find, Replace, Count and Print total number of words and characters similar to those in MS Word.
